@@ -1,9 +1,9 @@
 <h1> Book Recommendation Engine using KNN - ML Python Project</h1>
 <br>
 <h2>Features</h2>
-<li>KNN</li>
-<li> </li>
-<li> </li>
+<li>K-Nearest Neighbors algorithm</li>
+<li>Cleanign the data</li>
+<li>Developing a model that shows books that are similar to a given book</li>
 <li> </li>
 <li> </li>
 <h2>Acknowledgments</h2>
