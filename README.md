@@ -2,7 +2,7 @@
 <br>
 <h2>Features</h2>
 <li>K-Nearest Neighbors algorithm</li>
-<li>Cleanign the data</li>
+<li>Cleaning the data</li>
 <li>Developing a model that shows books that are similar to a given book</li>
 <li>Remove from the dataset users with less than 200 ratings and books with less than 100 ratings</li>
 <li>Function to return recommended books - this will be tested</li>
