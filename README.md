@@ -13,7 +13,7 @@
 
 
 <h2>Photo</h2>
-<img src="image.jpg">
+<img src="image.png">
 <br>
 
 <h2>Links</h2>
